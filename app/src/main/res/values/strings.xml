@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MyRPi3</string>
+    <!-- Informationen -->
+    <string name="loadingText">Wird geladen</string>
+    <string name="tvInfo">Informationen</string>
+    <string name="tvCpuTempText">CPU Temperatur</string>
+    <string name="tvSdFreeText">SD Frei</string>
+    <string name="tvRamFreeText">RAM Frei</string>
+    <string name="tvRunTimeText">Läuft seit</string>
+    <string name="tvApache">Apache 2</string>
+    <string name="tvSshText">SSH</string>
+    <string name="tvSqlText">Maria DB</string>
+    <!-- Als nechstes -->
+    <string name="tvNextText">Bald</string>
+    <string name="tvNextEmpty">Es gibt nichts</string>
+    <string name="tvInFutureTExt">Demnächst</string>
+    <!-- Buttons -->
+    <string name="btnSettings">Einstellungen</string>
+    <string name="btnNotice">Notizen</string>
+    <string name="btnLed">LED</string>
+    <string name="btnServer">Server</string>
+    <!-- Einstellungen Activity-->
+    <string name="tvSettings">Einstellungen</string>
+    <string name="textUrl">Adresse</string>
+    <string name="textToken">Token</string>
+    <string name="alarmRepeat">Täglich Alamieren</string>
+    <string name="saveSettings">Speichern</string>
+    <string name="deleteSettings">Löschen</string>
+    <string name="rpiUrl">https://walterharder.dnsuser.de</string>
+    <!-- Tasks Activity -->
+    <string name="notice">Notizen</string>
+    <string name="addNotice">+</string>
+    <!-- Add Task Activity-->
+    <string name="noticeText">Notiztext</string>
+    <string name="replayNotice">Wiederholen ?</string>
+    <string name="btnSaveNotice">Speichern</string>
+    <!-- Server-->
+    <string name="tvServerText">Server</string>
+    <!-- LED-->
+    <string name="tvLedText">Lichtsteuerung</string>
+    <!-- MSGS-->
+    <string name="connectionError">Keine Verbindung</string>
+    <string name="dateIsEmpty">Datum ist nicht gesetzt</string>
+    <string name="textIsEmpty">Text ist leer</string>
+    <string name="noValidUrl">Keine gültige URL</string>
+    <string name="feldsEmpty">Nicht alle Felder sind ausgefüllt</string>
+    <string name="allOk">Test war erfolgreich</string>
+    <string name="saveOk">Einstellungen gespeichert</string>
+    <string name="wrongToken">Token ist falsch</string>
+</resources>
